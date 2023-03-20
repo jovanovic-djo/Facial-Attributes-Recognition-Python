@@ -6,5 +6,5 @@
 * Csv file would have attributes given by user (name, age, gender, race or emotion)
 * Pictures from dataset that does not meet requirements of recognition will be ignored
 #### Dataset from Kaggle: https://www.kaggle.com/datasets/ashwingupta3012/human-faces
-
-
+#### Test case:
+https://github.com/jovanovic-djo/Facial-Attributes-Recognition-Python/blob/main/TestCase.png
